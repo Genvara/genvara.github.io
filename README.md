@@ -1,6 +1,6 @@
 # Genvara
 An "About" site that is made with carrd.co
-This was a pain to setup, hence the multiple commits that were made before this README was updated.
+This was a pain to setup, hence the multiple commits that were made before this README was first updated.
 
 
 
