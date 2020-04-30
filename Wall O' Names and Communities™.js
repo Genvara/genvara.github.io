@@ -1,4 +1,4 @@
-console.log("Psst, you might wanna check this JS script for Wall O' Names and Communities™")
+console.log("Psst, you might wanna check this JS script for Wall O' Names and Communities™");
 
 
 /* I wanted to have a place where i put names of some of my friends who helped me all these years, whom i stayed with for a
